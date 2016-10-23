@@ -1,5 +1,5 @@
 /*
-*@Author Aziz
+*@Author Aziz Nanthaamornphong
 */
 package courses;
 
