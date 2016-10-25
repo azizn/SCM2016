@@ -1,5 +1,6 @@
 /*
 *@Author Aziz Nanthaamornphong
+*@Company Prince of Songkla University.
 */
 package courses;
 
